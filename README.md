@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innocentmayemuhavi
 - 👀 I’m interested in ... codding 
-- 🌱 I’m currently learning ...React js
+- 🌱 I’m currently learning ...ML and Flutter
 - 💞️ I’m looking to collaborate on ...many projects 
 - 📫 How to reach me ... innocentmuhavimaye@gmail.com
 
